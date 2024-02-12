@@ -31,7 +31,7 @@ This script uses Telegram Selfbot to blast messages on your behalf.
 1. Install the requirements into your virtual environment
 
    ```
-   pip install requirements.txt
+   pip install -r requirements.txt
    ```
 
 1. Create a copy of .example(s)
